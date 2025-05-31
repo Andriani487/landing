@@ -1,0 +1,32 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+}
+
+.footer a {
+  font-size: 30px;
+  color: #1EDD88;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.fa-brands {
+  font-weight: 400;
+  font-family: "Font Awesome 6 Brands";
+}
+
+.footer .fa-solid {
+  color: #BF0F12;
+}
+
+.fas {
+  font-weight: 900;
+  font-family: "Font awesome 6 free";
+}
+
+.fa-heart {
+  content: "\f004";
+}
